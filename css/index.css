@@ -16,7 +16,7 @@ body {
 
 body::after {
   content: "";
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.7);
   top: 0;
   left: 0;
   bottom: 0;
